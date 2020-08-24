@@ -7,6 +7,12 @@ Over a period of nine years in deep space, the NASA Kepler space telescope has b
 To help process this data, machine learning models capable of classifying candidate exoplanets from the raw dataset are created. The following tasks are completed: 
 
 1. [Preprocess the raw data](#Preprocessing)
+* Preprocess the dataset prior to fitting the model.
+* Perform feature selection and remove unnecessary features.
+* Use `MinMaxScaler` to scale the numerical data.
+* Separate the data into training and testing data.
 2. [Tune the models](#Tune-Model-Parameters)
+* Use `GridSearch` to tune model parameters.
+* Tune and compare at least two different classifiers.
 3. [Compare two or more models](#Evaluate-Model-Performance)
 
