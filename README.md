@@ -15,4 +15,7 @@ To help process this data, machine learning models capable of classifying candid
 * Use `GridSearch` to tune model parameters.
 * Tune and compare at least two different classifiers.
 3. [Compare two or more models](#Evaluate-Model-Performance)
+* Deep Learning Model 
+
+
 
