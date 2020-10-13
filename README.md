@@ -21,8 +21,10 @@ To help process this data, machine learning models capable of classifying candid
 >   * Training Data Score: 0.8439824527942018
 >   * Testing Data Score: 0.8415331807780321
 * Logistic Regression
+
 >   * Training Data Score: 0.663932862864772
 >   * Testing Data Score: 0.6693363844393593
+
 This model results in a lowe accuracy score compare to the other two models used above. The possible reason for low accuracy on a classification could mean that classes are not very well separable with the current features chosen. This can possibly be improved by using better features. 
 
 
