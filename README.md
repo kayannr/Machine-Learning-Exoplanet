@@ -16,6 +16,7 @@ To help process this data, machine learning models capable of classifying candid
 * Tune and compare at least two different classifiers.
 3. [Compare two or more models](#Evaluate-Model-Performance)
 * Deep Learning Model 
+>   * Normal Neural Network - Loss: 0.27885300943998775, Accuracy: 0.8872997714398382
 
 
 
