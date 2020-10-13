@@ -15,8 +15,14 @@ To help process this data, machine learning models capable of classifying candid
 * Use `GridSearch` to tune model parameters.
 * Tune and compare at least two different classifiers.
 3. [Compare two or more models](#Evaluate-Model-Performance)
-* Deep Learning Model 
+* Deep Learning
 >   * Normal Neural Network - Loss: 0.27885300943998775, Accuracy: 0.8872997714398382
+* Support-Vector Machine (SVM)
+>   * Training Data Score: 0.8439824527942018
+>   * Testing Data Score: 0.8415331807780321
+* Logistic Regression
+>   * Training Data Score: 0.663932862864772
+>   * Testing Data Score: 0.6693363844393593
 
 
 

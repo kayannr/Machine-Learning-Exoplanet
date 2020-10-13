@@ -1,1 +1,3 @@
 [1012/175931.195:ERROR:settings.cc(430)] Settings version is not 5
+[1012/180931.207:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\kayan\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\f4b90d70-5b4a-4f00-ac03-19a7ecca0003: The system cannot find the path specified. (0x3)
+[1012/180931.207:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
